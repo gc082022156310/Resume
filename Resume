@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Resume</title>
+</head>
+<body>
+
+<table align="center" width="45%">
+
+<th bgcolor="09F3EF " align="left" width="45%">
+
+
+<center>
+<h1><font size="7px"><i>Gian Cartagena</i></font></h1>
+</center>
+
+<center>
+	<img src="img.jpg" height="130" width="130" border="2"/>
+</center>
+
+<font size="4px"><p><u>CONTACT</u></font>
+<br>
+<ul>
+	<li><img src="facebook.png" alt="" style="width:15px;height:15px;"><a href=""> Facebook</a></li>
+	<li><img src="instagram.png" alt="" style="width:15px;height:15px;"><a href=""> Instagram</a></li>
+	<li><img src="location.png" alt="" style="width:15px;height:15px;"> Caye Caulker </li>
+	<li><img src="whatsapp.png" alt="" style="width:15px;height:15px;"> +501 633-2798</li>
+	<li><img src="gmail.png" alt="" style="width:15px;height:15px;"> 2022156310</br></li>
+</ul>
+
+<font size="4px"><p><u>SKILLS</u></font>
+<br>
+<ul>
+	<li>Microsoft Office</li>
